@@ -1,5 +1,4 @@
-# Investigate a Dataste Project:
-`*` This is for Udacity Projects
+# Investigate a Dataste Project
 
 # Project Overview:
 `*` This project will analyze a dataset and then communicate your findings about it.
