@@ -1,6 +1,14 @@
-# Investigate a Dataste Project
-This is for Udacity Projects
+# Investigate a Dataste Project:
+`*` This is for Udacity Projects
 
-# Project Overview
-`&` This project will analyze a dataset and then communicate your findings about it.
-This Project will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+# Project Overview:
+`*` This project will analyze a dataset and then communicate your findings about it.
+`*` This Project will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+
+# Installation:
+You will need an installation of Python, plus the following libraries
+* pandas
+* NumPy
+* Matplotlib
+* csv
+
