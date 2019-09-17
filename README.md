@@ -1,4 +1,5 @@
 # Investigate a Dataste Project
+We will use Jupyter Notebook.
 
 # Project Overview:
 `*` This project will analyze a dataset and then communicate your findings about it.
